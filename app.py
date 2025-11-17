@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import duckdb
 import plotly.express as px
 import os
 from dotenv import load_dotenv
